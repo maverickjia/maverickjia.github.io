@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Meng Jia, a PhD student at Colorado School of Mines in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu). 
+Hi! I'm Meng Jia, a PhD student at Colorado School of Mines in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu). My research focuses on methane emission detection, localization, and quantification on oil and gas (O&G) facilities using statistical and machine learning methods.
 
 Education
 ------
@@ -21,9 +21,13 @@ Education
 * B.S. & M.S. Geophysics, Peking University, 2015
 
 
-Site-wide configuration
+My research
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Gaussian puff model**
+
+**Sensor placement optimization**
+
+**Physics-informed neural netowrks**
 
 Create content & metadata
 ------
