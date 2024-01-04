@@ -15,7 +15,7 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-<object data="files/paper1.pdf" width="1000" height="1000" type='application/pdf'/>
+
 
 Work experience
 ======
