@@ -31,6 +31,8 @@ My research
 ------
 **Gaussian puff model**
 
+I’ve collaborated with Ryker Fisher and [Will Daniels](https://wsdaniels.github.io) to develop a computational efficient implement	of the Gaussian puff model. This model has demonstrated enhanced accuracy in characterizing atmospheric transport of air pollutants, surpassing the commonly used Gaussian plume model in precision. For more detailed insights into our work, please refer to our [preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6451848107c3f029371ca07f).
+
 **Sensor placement optimization**
 
 **Physics-informed neural netowrks**
