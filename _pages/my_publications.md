@@ -4,6 +4,8 @@ permalink: /my_publications/
 author_profile: true
 ---
 
+{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
+
 Preprint
 ---
 **Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities.**
