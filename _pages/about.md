@@ -33,15 +33,15 @@ My research
 
 I’ve collaborated with Ryker Fisher and [Will Daniels](https://wsdaniels.github.io) to develop a computational efficient implement	of the Gaussian puff model. This model has demonstrated enhanced accuracy in characterizing atmospheric transport of air pollutants, surpassing the commonly used Gaussian plume model in precision. For more detailed insights into our work, please refer to our [preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6451848107c3f029371ca07f).
 
-**Sensor placement optimization**
+**<ins>Sensor placement optimization</ins>**
 
 Together with Troy Sorensen, I am currently engaged in developing a data-driven algorithm aimed at optimizing sensor placement for continuous monitoring on oil and gas sites. Our approach leverages on-site wind data and practitioner-provided emission characteristics to simulate a range of emission scenarios. Concurrently, we identify potential sensor locations based on the site's geometry and operational guidelines. To determine the most effective sensor placement within a specified budget, we are employing evolutionary algorithms within a Pareto optimization framework. This strategy is designed to maximize detection efficiency across the varied emission scenarios we've modeled. Find this [conference presentation](files/paper1.pdf)
 for more details.
 
-**Physics-informed neural netowrks**
+**<ins>Physics-informed neural netowrks</ins>**
 
 Looking ahead, my future work includes plans to employ Physics-Informed Neural Networks (PINNs) for solving the advection-diffusion partial differential equation (PDE), which is pivotal in describing the atmospheric transport of methane. Furthermore, by conceptualizing the PINN as an inverse problem, we aim to extract critical information about the emission source. This includes determining the start and end times, location, and intensity of the emissions.
 
 Contact
 ------
-You can reach me at m\{my lastname\}@mines.edu. 
+You can reach me at m\{my last name\}@mines.edu. 
