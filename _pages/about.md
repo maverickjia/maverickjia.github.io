@@ -10,6 +10,12 @@ redirect_from:
 
 Hi! I'm Meng Jia, a PhD student at Colorado School of Mines in the [Department of Applied Mathematics and Statistics](https://ams.mines.edu), working with my advisor Dr. Dorit Hammerling. I'm also a graduate student researcher at the [Payne Institute for Public Policy](https://payneinstitute.mines.edu) and at [Energy Emissions Modeling and Data Lab (EEMDL)](https://www.eemdl.utexas.edu). My research focuses on methane emission detection, localization, and quantification on oil and gas (O&G) facilities using statistical and machine learning methods.
 
+Before my current role, I worked in NASA's [InSight Project](https://mars.nasa.gov/insight/mission/overview/), where I contributed to characterizing Mars' interior structure using the first-ever in-situ seismic data from Mars.
+
+Originally from Beijing, China, I spent three years living in Florida before relocating to Colorado. My leisure pursuits include a passion for travel, reflected in my collection of nearly a hundred magnets from various destinations. Additionally, I enjoy playing basketball and board games as a way to unwind and relax.
+
+
+
 Education
 ------
 * Ph.D. Statistics, Colorado School of Mines, in progress
