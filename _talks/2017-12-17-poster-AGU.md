@@ -1,10 +1,10 @@
 ---
-title: "A data-driven algorithm to optimize the placement of continuous monitoring sensors on oil and gas sites"
+title: "Determining Crust and Upper Mantle Structure by Bayesian Joint Inversion of Receiver Functions and Surface Wave Dispersion at a Single Station: Preparation for Data from the InSight Mission"
 collection: talks
-type: "Talk"
-permalink: /talks/2023-12-11-talk-AGU
-venue: "AGU Fall Meeting 2023"
-date: 2023-12-11
+type: "Poster"
+permalink: /talks/2017-12-17-poster-AGU
+venue: "AGU Fall Meeting 2017"
+date: 2017-12-17
 location: "San Francisco, California"
 ---
 
