@@ -8,4 +8,4 @@ date: 2017-12-17
 location: "San Francisco, California"
 ---
 
-[Link](/files/2023_MengJia_AGU_talk.pdf)
+[Link](/files/Poster_AGU2017_MengJia_Final.pdf)
