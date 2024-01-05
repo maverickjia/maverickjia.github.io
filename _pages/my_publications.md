@@ -30,6 +30,6 @@ Theses
 \
 Meng Jia.
 \
-*Master Thesis at University of Florida*
+*Master Thesis at University of Florida.*
 \
 [Link](https://ufdc.ufl.edu/UFE0052744/00001/pdf)
