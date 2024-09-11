@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/Resume_MengJia_202304.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Resume_MengJia.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Last updated: April 2023
+Last updated: September 2024
 
-You can download a PDF copy of my CV [here](/files/Resume_MengJia_202304.pdf).
+You can download a PDF copy of my CV [here](/files/Resume_MengJia.pdf).
