@@ -32,6 +32,13 @@ Meng Jia, William Daniels, Dorit Hammerling.
 \
 [Link](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6451848107c3f029371ca07f/original/comparison-of-the-gaussian-plume-and-puff-atmospheric-dispersion-models-for-methane-modeling-on-oil-and-gas-sites.pdf)
 
+* **Estimating methane emission durations using continuous monitoring systems**
+\
+William Daniels, Meng Jia, Dorit Hammerling.
+\
+*ChemRxiv, (2024).*
+\
+[Link]([https://chemrxiv.org/engage/chemrxiv/article-details/66cd5008a4e53c4876b93af7](https://chemrxiv.org/engage/chemrxiv/article-details/6633e52891aefa6ce1ffaf3b))
 
 Theses
 ---
