@@ -6,7 +6,7 @@ author_profile: true
 
 {% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
 
-Preprints
+Published
 ---
 * **Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems**
 \
