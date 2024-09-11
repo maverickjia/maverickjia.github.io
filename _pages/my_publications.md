@@ -16,6 +16,14 @@ William S. Daniels, Meng Jia, Dorit M. Hammerling.
 
 Preprints
 ---
+* **Optimizing continuous monitoring sensor placement on oil and gas sites**
+\
+Meng Jia, Troy Sorensen, Dorit Hammerling.
+\
+*ChemRxiv, (2024).*
+\
+[Link](https://chemrxiv.org/engage/chemrxiv/article-details/66cd5008a4e53c4876b93af7)
+
 * **Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities.**
 \
 Meng Jia, William Daniels, Dorit Hammerling.
