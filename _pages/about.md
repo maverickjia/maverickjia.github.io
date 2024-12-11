@@ -42,7 +42,7 @@ for more details.
 
 **<ins>Physics-informed neural netowrks</ins>**
 
-Looking ahead, my future work includes plans to employ Physics-Informed Neural Networks (PINNs) for solving the advection-diffusion partial differential equation (PDE), which is pivotal in describing the atmospheric transport of methane. Furthermore, by conceptualizing the PINN as an inverse problem, we aim to extract critical information about the emission source. This includes determining the start and end times, location, and intensity of the emissions. Find this [conference](https://agu24.ipostersessions.com/default.aspx?s=BA-99-09-91-AB-27-4E-93-78-D4-9C-F4-80-D6-56-35) presentation for more details.
+Looking ahead, my future work includes plans to employ Physics-Informed Neural Networks (PINNs) for solving the advection-diffusion partial differential equation (PDE), which is pivotal in describing the atmospheric transport of methane. Furthermore, by conceptualizing the PINN as an inverse problem, we aim to extract critical information about the emission source. This includes determining the start and end times, location, and intensity of the emissions. Find this [conference presentation](https://agu24.ipostersessions.com/default.aspx?s=BA-99-09-91-AB-27-4E-93-78-D4-9C-F4-80-D6-56-35) for more details.
 
 Contact
 ------
