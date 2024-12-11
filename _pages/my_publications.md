@@ -8,6 +8,12 @@ author_profile: true
 
 Published
 ---
+* **Estimating Methane Emission Durations Using Continuous Monitoring Systems**
+\
+William S. Daniels, Meng Jia, Dorit M. Hammerling.
+*Environmental Science & Technology Letters*
+[Link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c00687)
+
 * **Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems**
 \
 William S. Daniels, Meng Jia, Dorit M. Hammerling.
@@ -24,21 +30,14 @@ Meng Jia, Troy Sorensen, Dorit Hammerling.
 \
 [Link](https://chemrxiv.org/engage/chemrxiv/article-details/66cd5008a4e53c4876b93af7)
 
-* **Comparison of the Gaussian plume and puff atmospheric dispersion models on oil and gas facilities.**
+* **Filling a critical need: a lightweight and fast Gaussian puff model implementation**
 \
-Meng Jia, William Daniels, Dorit Hammerling.
-\
-*ChemRxiv, (2023).*
-\
-[Link](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6451848107c3f029371ca07f/original/comparison-of-the-gaussian-plume-and-puff-atmospheric-dispersion-models-for-methane-modeling-on-oil-and-gas-sites.pdf)
-
-* **Estimating methane emission durations using continuous monitoring systems**
-\
-William Daniels, Meng Jia, Dorit Hammerling.
+Meng Jia, Ryker Fish, Brennan Sprinkle, William Daniels, Dorit Hammerling.
 \
 *ChemRxiv, (2024).*
 \
-[Link]([https://chemrxiv.org/engage/chemrxiv/article-details/66cd5008a4e53c4876b93af7](https://chemrxiv.org/engage/chemrxiv/article-details/6633e52891aefa6ce1ffaf3b))
+[Link](https://chemrxiv.org/engage/chemrxiv/article-details/672a296b7be152b1d00fcc60)
+
 
 Theses
 ---
