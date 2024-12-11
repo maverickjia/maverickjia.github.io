@@ -33,11 +33,11 @@ My research
 ------
 **<ins>Gaussian puff model</ins>**
 
-I’ve collaborated with Ryker Fisher and [Will Daniels](https://wsdaniels.github.io) to develop a computational efficient implement	of the Gaussian puff model. This model has demonstrated enhanced accuracy in characterizing atmospheric transport of air pollutants, surpassing the commonly used Gaussian plume model in precision. For more detailed insights into our work, please refer to our [preprint](https://chemrxiv.org/engage/chemrxiv/article-details/6451848107c3f029371ca07f).
+I’ve collaborated with Ryker Fisher and [Will Daniels](https://wsdaniels.github.io) to develop a computational efficient implement	of the Gaussian puff model. This model has demonstrated enhanced accuracy in characterizing atmospheric transport of air pollutants, surpassing the commonly used Gaussian plume model in precision. For more detailed insights into our work, please refer to our [preprint](https://chemrxiv.org/engage/chemrxiv/article-details/672a296b7be152b1d00fcc60).
 
 **<ins>Sensor placement optimization</ins>**
 
-Together with Troy Sorensen, I am currently engaged in developing a data-driven algorithm aimed at optimizing sensor placement for continuous monitoring on oil and gas sites. Our approach leverages on-site wind data and practitioner-provided emission characteristics to simulate a range of emission scenarios. Concurrently, we identify potential sensor locations based on the site's geometry and operational guidelines. To determine the most effective sensor placement within a specified budget, we are employing evolutionary algorithms within a Pareto optimization framework. This strategy is designed to maximize detection efficiency across the varied emission scenarios we've modeled. Find this [conference presentation](files/paper1.pdf)
+Together with Troy Sorensen, I am currently engaged in developing a data-driven algorithm aimed at optimizing sensor placement for continuous monitoring on oil and gas sites. Our approach leverages on-site wind data and practitioner-provided emission characteristics to simulate a range of emission scenarios. Concurrently, we identify potential sensor locations based on the site's geometry and operational guidelines. To determine the most effective sensor placement within a specified budget, we are employing evolutionary algorithms within a Pareto optimization framework. This strategy is designed to maximize detection efficiency across the varied emission scenarios we've modeled. Find this [preprint](https://chemrxiv.org/engage/chemrxiv/article-details/66cd5008a4e53c4876b93af7)
 for more details.
 
 **<ins>Physics-informed neural netowrks</ins>**
