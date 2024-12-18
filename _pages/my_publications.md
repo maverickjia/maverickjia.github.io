@@ -8,10 +8,16 @@ author_profile: true
 
 Published
 ---
+* **Optimizing Point-in-Space Continuous Monitoring System Sensor Placement on Oil and Gas Sites**
+\
+Meng Jia, Troy R. Sorensen, Dorit M. Hammerling.
+*Environmental Science & Technology Letters*
+[Link](https://pubs.acs.org/doi/10.1021/acssusresmgt.4c00333)
+
 * **Estimating Methane Emission Durations Using Continuous Monitoring Systems**
 \
 William S. Daniels, Meng Jia, Dorit M. Hammerling.
-*Environmental Science & Technology Letters*
+*ACS Sustainable Resource Management*
 [Link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c00687)
 
 * **Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems**
