@@ -9,6 +9,6 @@ redirect_from:
 
 <iframe src="/files/CV_MengJia.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Last updated: December 2024
+Last updated: May 2025
 
 You can download a PDF copy of my CV [here](/files/CV_MengJia.pdf).
