@@ -8,16 +8,22 @@ author_profile: true
 
 Published
 ---
+* **A fast and lightweight implementation of the Gaussian puff model for near-field atmospheric transport of trace gasses**
+\
+Meng Jia, Ryker Fish, William S Daniels, Brennan Sprinkle, Dorit Hammerling.
+*Nature Scientific Reports*
+[Link](https://www.nature.com/articles/s41598-025-99491-x)
+
 * **Optimizing Point-in-Space Continuous Monitoring System Sensor Placement on Oil and Gas Sites**
 \
 Meng Jia, Troy R. Sorensen, Dorit M. Hammerling.
-*Environmental Science & Technology Letters*
+*ACS Sustainable Resource Management*
 [Link](https://pubs.acs.org/doi/10.1021/acssusresmgt.4c00333)
 
 * **Estimating Methane Emission Durations Using Continuous Monitoring Systems**
 \
 William S. Daniels, Meng Jia, Dorit M. Hammerling.
-*ACS Sustainable Resource Management*
+*Environmental Science & Technology Letters*
 [Link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c00687)
 
 * **Detection, localization, and quantification of single-source methane emissions on oil and gas production sites using point-in-space continuous monitoring systems**
@@ -25,24 +31,6 @@ William S. Daniels, Meng Jia, Dorit M. Hammerling.
 William S. Daniels, Meng Jia, Dorit M. Hammerling.
 *Elementa: Science of the Anthropocene*
 [Link](https://online.ucpress.edu/elementa/article/12/1/00110/200346)
-
-Preprints
----
-* **Optimizing continuous monitoring sensor placement on oil and gas sites**
-\
-Meng Jia, Troy Sorensen, Dorit Hammerling.
-\
-*ChemRxiv, (2024).*
-\
-[Link](https://chemrxiv.org/engage/chemrxiv/article-details/66cd5008a4e53c4876b93af7)
-
-* **Filling a critical need: a lightweight and fast Gaussian puff model implementation**
-\
-Meng Jia, Ryker Fish, Brennan Sprinkle, William Daniels, Dorit Hammerling.
-\
-*ChemRxiv, (2024).*
-\
-[Link](https://chemrxiv.org/engage/chemrxiv/article-details/672a296b7be152b1d00fcc60)
 
 
 Theses
