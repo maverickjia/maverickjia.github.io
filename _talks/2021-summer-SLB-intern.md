@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/2024-12-12-talk-AGU
 venue: "SLB Summer Intern Project"
-date: May - August, 2025
+date: 2021-07-30
 location: "Houston, TX"
 ---
 
